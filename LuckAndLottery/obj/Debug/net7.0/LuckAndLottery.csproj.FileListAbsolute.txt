@@ -1,0 +1,15 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\bin\Debug\net7.0\LuckAndLottery.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\bin\Debug\net7.0\LuckAndLottery.deps.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\bin\Debug\net7.0\LuckAndLottery.runtimeconfig.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\bin\Debug\net7.0\LuckAndLottery.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\bin\Debug\net7.0\LuckAndLottery.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\obj\Debug\net7.0\LuckAndLottery.csproj.AssemblyReference.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\obj\Debug\net7.0\LuckAndLottery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\obj\Debug\net7.0\LuckAndLottery.AssemblyInfoInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\obj\Debug\net7.0\LuckAndLottery.AssemblyInfo.cs
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\obj\Debug\net7.0\LuckAndLottery.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\obj\Debug\net7.0\LuckAndLottery.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\obj\Debug\net7.0\refint\LuckAndLottery.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\obj\Debug\net7.0\LuckAndLottery.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\obj\Debug\net7.0\LuckAndLottery.genruntimeconfig.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\LuckAndLottery\obj\Debug\net7.0\ref\LuckAndLottery.dll
